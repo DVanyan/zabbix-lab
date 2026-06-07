@@ -15,8 +15,27 @@ The lab is designed for learning, testing monitoring concepts, experimenting wit
 
 ## Architecture
 
-text                     +----------------+                     |  Zabbix Web    |                     +--------+-------+                              |                              |                     +--------v-------+                     | Zabbix Server  |                     +--------+-------+                              |                              |                     +--------v-------+                     | PostgreSQL DB  |                     +----------------+                               |                              |                     +--------v-------+                     | Zabbix Agent2  |                     +----------------+ 
+```text
+                 +----------------+
+                 |   Zabbix Web   |
+                 +--------+-------+
+                          |
+                          |
+                 +--------v-------+
+                 | Zabbix Server  |
+                 +--------+-------+
+                          |
+                          |
+                 +--------v-------+
+                 | PostgreSQL DB  |
+                 +----------------+
 
+                          |
+                          |
+                 +--------v-------+
+                 | Zabbix Agent2  |
+                 +----------------+
+```
 ---
 
 ## Components

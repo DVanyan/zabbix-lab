@@ -29,7 +29,6 @@ The lab is designed for learning, testing monitoring concepts, experimenting wit
                  +--------v-------+
                  | PostgreSQL DB  |
                  +----------------+
-
                           |
                           |
                  +--------v-------+

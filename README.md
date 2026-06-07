@@ -1,5 +1,9 @@
 # Zabbix Lab
 
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
 A production-style Zabbix monitoring laboratory built with Docker Compose.
 
 This project provides a fully containerized Zabbix environment consisting of:

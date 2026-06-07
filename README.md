@@ -1,5 +1,10 @@
 # Zabbix Lab
 
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)
+![Zabbix](https://img.shields.io/badge/Zabbix-7.0-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2024.04-E95420?logo=ubuntu)
+
 A production-style monitoring laboratory built with Docker Compose.
 
 This project provides a fully containerized Zabbix environment consisting of Zabbix Server, Zabbix Web Interface, PostgreSQL Database, and Zabbix Agent2 connected through a shared monitoring network.

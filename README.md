@@ -4,6 +4,10 @@
 
 ![Dashboard](screenshots/dashboard.png)
 
+## Hosts
+
+![Hosts](screenshots/hosts.png)
+
 A production-style Zabbix monitoring laboratory built with Docker Compose.
 
 This project provides a fully containerized Zabbix environment consisting of:

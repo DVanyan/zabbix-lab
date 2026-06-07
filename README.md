@@ -11,6 +11,7 @@ This project provides a fully containerized Zabbix environment consisting of Zab
 
 The lab is designed for learning, testing monitoring concepts, experimenting with Zabbix features, and integrating with external systems such as Prometheus, Grafana, Alertmanager, and Jenkins.
 
+![Zabbix](screenshots/zabbix-lab.png)
 ---
 
 ## Architecture
